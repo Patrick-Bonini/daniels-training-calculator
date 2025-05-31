@@ -1,0 +1,31 @@
+VDOT Running Calculator Report
+Generated on: 2025-05-31 15:39:37
+
+Your VDOT: 46
+
+=== Race Time Predictions ===
+1500m: 5:49
+Mile: 6:17
+5000m: 21:25
+10K: 44:25
+Marathon: 3:24:39
+
+=== Training Paces ===
+E/L km: 5:17-5:57
+E/L mile: 8:31-9:34
+M km: 4:51
+M mile: 7:49
+T km: 4:33
+T mile: 7:17
+
+=== Interval Paces ===
+I 400m: 1:40
+I km: 4:12
+I 1200m: 5:00
+
+=== Repetition Paces ===
+R 200m: 46
+R 300m: 69
+R 400m: 92
+R 600m: —
+R 800m: —
